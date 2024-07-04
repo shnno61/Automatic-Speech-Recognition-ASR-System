@@ -1,0 +1,6 @@
+torch == 2.3.0
+torchaudio == 2.3.0
+transformer ==  4.33.3 
+numpy == 1.26.4
+pandas == 2.2.2
+levenshtein == 0.25.1
